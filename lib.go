@@ -3,5 +3,5 @@ package golib
 import "fmt"
 
 func Func() {
-	fmt.Println("very start")
+	fmt.Println("v1.0.0 baby")
 }
