@@ -1,3 +1,3 @@
-module github.com/bbkane/golib
+module github.com/bbkane/golib/v2
 
 go 1.15

@@ -1,7 +1,7 @@
 package golib_test
 
 import (
-	"github.com/bbkane/golib"
+	"github.com/bbkane/golib/v2"
 	"testing"
 )
 
